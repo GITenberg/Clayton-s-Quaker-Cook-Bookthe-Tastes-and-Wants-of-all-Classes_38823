@@ -1,0 +1,26 @@
+_repo: Clayton-s-Quaker-Cook-Bookthe-Tastes-and-Wants-of-all-Classes_38823
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38823-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Clayton, H. J.
+    gutenberg_agent_id: '39664'
+    url: http://www.gutenberg.org/2009/agents/39664
+description: ''
+gutenberg_issued: '2012-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38823'
+  lccn: 08018939
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Cooking, American'
+title: "Clayton's Quaker Cook-Book\r\nBeing a Practical Treatise on the Culinary Art\
+  \ Adapted to the Tastes and Wants of All Classes"
+url: http://www.gutenberg.org/ebooks/38823
